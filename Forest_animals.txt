@@ -9,4 +9,6 @@
 3. Rabbit\
 4. Bear\
 5. Sparrow\
-6. Mouse}
+6. Mouse\
+7. Duck\
+8. Hedgehog}
